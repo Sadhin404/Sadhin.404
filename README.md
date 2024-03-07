@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Nothing funny🥺**
 
-- 📫 How to reach me **Send me a mail**
+- 📫 How to reach me **Send me an mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
