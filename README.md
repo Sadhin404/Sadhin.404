@@ -1,5 +1,5 @@
 <img align src="https://github.com/Sadhin404/Sadhin.404/blob/main/original-49fbd2266c2bc8cda7d2e167bd06db88.png">
-<h1 align="center">Hi 👋, I'm Sadhin khan</h1>
+<h1 align="center">Hi 👋, This is Sadhin khan</h1>
 <h3 align="center">A passionate Competitive programmer who interested in Ai/Ml and Data Science Aspiring Future Tech Leader </h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 
