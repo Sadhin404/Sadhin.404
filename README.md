@@ -1,20 +1,20 @@
 <img align src="https://github.com/Sadhin404/Sadhin.404/blob/main/original-49fbd2266c2bc8cda7d2e167bd06db88.png">
 <h1 align="center">Hi 👋, I'm Sadhin khan</h1>
-<h3 align="center">A passionate Competitive programmer and Fronted Backend Learner</h3>
+<h3 align="center">A passionate Competitive programmer who interested in Ai/Ml and Data Science Aspiring Future Tech Leader </h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhin404&label=Profile%20views&color=0e75b6&style=flat" alt="sadhin404" /> </p>
 
-- 🔭 I,am currently working on **Competitive programming**
+- 🔭 I,am currently working on **Competitive programming and Ai/ML**
 
-- 🌱 I’m currently learning **Software Devolopment**
+- 🌱 I’m currently learning **Ai/ML Data Science**
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Cp and Ai/ML**
 
-- ⚡ Fun fact **Nothing funny🥺**
+- ⚡ Fun fact **I am Lazy++🥺**
 
-- 📫 How to reach me **Send me an mail**
+- 📫 How to reach me **Just Send me an mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
